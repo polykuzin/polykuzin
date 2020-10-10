@@ -2,7 +2,7 @@
 
 ### Privet! My name is Paul 👋
 
-I’m an iOS developer, writer and public speaker. I'm the creator of [Knit it](vk.com/mnkuzin), I currently work as a Senior Software Engineer at Calm. 
+I’m an iOS developer, blogger and public speaker. I'm the creator of [Knit it](vk.com/mnkuzin), I currently work as a Middle Software Engineer at Moscow Metro. 
 
 - 📱  I’m currently working on "Knit it" app, that will be on public this year.
 - 🤓  I’m currently learning how to fix bugs fix bugs found by testers (omg).
