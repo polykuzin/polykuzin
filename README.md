@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/PolyKuzin/PolyKuzin/blob/master/illustration.png" alt="Paul standing" width=350px height=465px/>
+<img align="right" src="https://github.com/PolyKuzin/PolyKuzin/blob/master/illustration.png" alt="Paul standing" width=275px height=465px/>
 
 ### Privet! My name is Paul 👋
 
