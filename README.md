@@ -2,7 +2,7 @@
 
 ### Privet! My name is Paul 👋
 
-I’m an iOS developer, blogger and public speaker. I'm the creator of [Knit it](vk.com/mnkuzin), I currently work as a Middle Software Engineer at Moscow Metro. 
+I’m an iOS developer, blogger and public speaker. I'm the creator of [Knit it](https://vk.com/mnkuzin), I currently work as a Middle Software Engineer at Moscow Metro. 
 
 - 📱  I’m currently working on "NewsScreen" in Metro X app, and for personal app "Knit it" that will be on public this mounth.
 - 🤓  I’m currently learning how to fix bugs fix bugs found by testers (oMg).
