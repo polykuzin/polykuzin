@@ -2,7 +2,7 @@
 
 ### Privet! My name is Paul 👋
 
-I’m an iOS developer, blogger and public speaker. Currently work as a Middle Software Engineer at Moscow Metro && developing personal projects. 
+I’m an iOS developer, blogger and public speaker. Currently work as a Middle Software Engineer at Moscow Metro && developing personal projects, such as [Knit it] () or [my Money] (). 
 
 - 😄  Pronouns: he / him
 - 🤓  Learning how to fix bugs fix bugs found by testers (oMg).
