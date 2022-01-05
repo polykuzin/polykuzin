@@ -2,7 +2,7 @@
 
 ### Privet! My name is Paul 👋
 
-I’m an iOS developer, currently working as a Middle Software Engineer at few projects && developing personal projects, such as [Knit it] () or [Pomodoro] (). 
+I’m an iOS developer, currently working as a Middle Software Engineer at few projects && developing personal projects, such as [Knit it] () or [Pomidor] (). 
 
 - 😄  Pronouns: he / him
 - 🤓  Learning how to fix bugs fix bugs found by testers (oMg).
