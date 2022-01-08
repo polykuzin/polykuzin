@@ -2,9 +2,8 @@
 
 ### Privet! My name is Paul 👋
 
-I’m an iOS developer, currently working as a Middle Software Engineer at few projects && developing personal projects, such as [Knit it](https://apps.apple.com/us/app/knit-it-just-a-row-counter/id1532396965) or [Pomidor] (). 
+I’m an iOS developer, currently working as a Middle Software Engineer at few projects && developing personal projects, such as [Knit it](https://apps.apple.com/us/app/knit-it-just-a-row-counter/id1532396965) or [Pomidor](). 
 
-- 😄  Pronouns: he / him
 - 🤓  Learning how to fix bugs fix bugs found by testers (oMg).
 - 💬  Ask me about iOS development, Firebase or TDD.
 - 📫  How to reach me: Telegram: [@polykuzin](https://t.me/polykuzin) or e-mail: polykuzin@gmail.com
