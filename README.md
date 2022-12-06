@@ -2,7 +2,7 @@
 
 ### Privet! My name is Poly / Paul / Pavel 👋
 
-I’m an iOS developer, currently working as a Lead iOS Engineer at few projects && developing personal projects, such as [Knit it](https://apps.apple.com/us/app/knit-it-just-a-row-counter/id1532396965) or [Pomidor](https://apps.apple.com/us/app/pomidor-productivity-helper/id1598883284). 
+I’m an iOS developer, currently working as a Lead iOS Engineer at few projects && developing personal projects.
 
 - 🤓  Learning how to fix bugs fix bugs found by testers (oMg).
 - 💬  Wanna relocate somethere from Russia (EU is my goal for 2022).
