@@ -2,7 +2,7 @@
 
 ### Privet! My name is Poly / Paul / Pavel 👋
 
-I’m an iOS developer, currently working as a Lead iOS Engineer at few projects && developing personal projects.
+I’m an iOS developer, currently working as a Lead iOS Engineer at few projects && developing personal projects. I'm slowly learning how to develop for the Android platform, but I can't brag about something yet.
 
 - 🤓  Learning how to fix bugs fix bugs found by testers (oMg).
 - 💬  Wanna relocate somethere from Russia (EU is my goal for 2023).
