@@ -7,5 +7,5 @@ I’m an iOS developer, currently working as a Lead iOS Engineer at few new mech
 - 🤓  Learning how to fix bugs fix bugs found by testers (oMg).
 - 💬  Wanna relocate somethere from Russia (EU is my goal for 2023).
 - 📫  How to reach me: Telegram: [@polykuzin](https://t.me/polykuzin) or e-mail: polykuzin@gmail.com
-- 📱  Worked on some AWESOME features in Moscow Metro app and for some more projects.
+- 📱  Worked on some AWESOME features in Moscow Metro app and for some more projects, which I will publish a little later ☺️
 - 🚴  Fun fact: I am an official by education, but I work as a programmer, and all because of a broken jaw))))
