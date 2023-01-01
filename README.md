@@ -8,4 +8,4 @@ I’m an iOS developer, currently working as a Lead iOS Engineer at few new feat
 - 💬  Wanna relocate somethere from Russia (EU is my goal for my 25 y.o).
 - 📫  How to reach me: Telegram: [@polykuzin](https://t.me/polykuzin) or just e-mail: polykuzin@gmail.com
 - 📱  Worked on some AWESOME features in Moscow Metro app and for some more projects, which I will publish a little later ☺️
-- 🚴  Fun fact: I am an official by education, but I work as a programmer, and all because of a broken jaw))))
+- 🚴  Fun fact: I am an official by education, but I work as a programmer, and all because of a broken jaw (long story 😁)
