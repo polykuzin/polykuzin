@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/PolyKuzin/PolyKuzin/blob/master/illustration.png" alt="Paul standing" width=250px height=465px/>
 
-### Privet! My name is Poly / Paul / Pavel / Pasha from Russia 🥸
+### Privet! My name is Poly / Paul / Pavel / Pasha from Russia 🤩
 
 I’m an iOS developer, currently working as a Lead iOS Engineer at few new features in Moscow Metro && developing personal projects. I'm slowly learning how to develop for the Android platform, but I can't brag about something yet.
 
