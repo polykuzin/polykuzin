@@ -2,7 +2,7 @@
 
 ### Privet! My name is Poly / Paul / Pavel / Pasha from Russia 🚀
 
-I’m an iOS developer, currently working as a Lead iOS Engineer at few new features in Moscow Metro && developing personal projects. I'm slowly learning how to develop for the Android platform, but I can't brag about something yet.
+I’m an iOS developer, currently working as an iOS Engineer in (tutu.ru)[tutu.ru] && developing personal projects. I'm slowly learning how to develop for the Android platform, but I can't brag about something yet.
 
 - 🤓  Learning how to fix bugs fix bugs found by testers.
 - 💬  Wanna relocate somethere from Russia (EU is my goal for my 25 y.o).
