@@ -4,4 +4,4 @@
 
 I’m an iOS developer, currently working as an iOS Engineer in [tutu.ru](tutu.ru) && developing personal projects.
 
-- 📫  How to reach me: Telegram: [@polykuzin](https://t.me/polykuzin) or just e-mail: polykuzin@gmail.com
+Telegram: [@polykuzin](https://t.me/polykuzin) or just e-mail: polykuzin@gmail.com
